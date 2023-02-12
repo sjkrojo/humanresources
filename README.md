@@ -13,16 +13,7 @@
 ██║░░██║╚██████╔╝██║░╚═╝░██║██║░░██║██║░╚███║╚█████╔╝██████╔╝
 ╚═╝░░╚═╝░╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝░╚════╝░╚═════╝░
 #
-**
-┏━━━┓
-┗┓┏┓┃
-╋┃┃┃┣━━┳━━┳━━┳━┳┳━━┳━━┳┳━━┳━┓
-╋┃┃┃┃┃━┫━━┫┏━┫┏╋┫┏┓┃┏━╋┫┏┓┃┏┓┓
-┏┛┗┛┃┃━╋━━┃┗━┫┃┃┃┗┛┃┗━┫┃┗┛┃┃┃┃
-┗━━━┻━━┻━━┻━━┻┛┗┫┏━┻━━┻┻━━┻┛┗┛
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┃┃
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗┛**
-#
+# **DESCRIPCIÓN**
 
 *"Recursos humanos"* sirve para registrar los aspirantes de una empresa, cuenta con diferentes funciones como registrar  eliminar, actualizar, listar toda las IDs de los aspirantes y ver la información de un ID en especifico.
 
@@ -31,14 +22,9 @@ Enfocado en un diseño minimalista, eficaz y de fácil entendimiento para facili
 ![enter image description here](https://imgur.com/RgSwocz.png)
 
 ##
-**
-┏━━┓╋╋╋╋╋┏┓
-┗┫┣┛╋╋╋╋┏┛┗┓
-╋┃┃┏━┓┏━┻┓┏╋━┳┓┏┳━━┳━━┳┳━━┳━┓┏━━┳━━┓
-╋┃┃┃┏┓┫━━┫┃┃┏┫┃┃┃┏━┫┏━╋┫┏┓┃┏┓┫┃━┫━━┫
-┏┫┣┫┃┃┣━━┃┗┫┃┃┗┛┃┗━┫┗━┫┃┗┛┃┃┃┃┃━╋━━┃
-┗━━┻┛┗┻━━┻━┻┛┗━━┻━━┻━━┻┻━━┻┛┗┻━━┻━━┛**
-## 
+
+
+# **INSTRUCCIONES**
 
 El programa registra postulantes con los siguientes atributos:
 
@@ -104,14 +90,7 @@ Cuenta con un campo de texto, en el cual se muestran todas las IDs registradas y
 
 
 ##
-**
-┏━━━┓╋╋╋╋╋╋┏┓┏┓
-┃┏━┓┃╋╋╋╋╋╋┃┣┛┗┓
-┃┃╋┗╋━┳━━┳━┛┣┓┏╋━━┳━━┓
-┃┃╋┏┫┏┫┃━┫┏┓┣┫┃┃┏┓┃━━┫
-┃┗━┛┃┃┃┃━┫┗┛┃┃┗┫┗┛┣━━┃
-┗━━━┻┛┗━━┻━━┻┻━┻━━┻━━┛**
-##
+# **CREDITOS**
 
 ### Condenados Corp
  1. Diego Andres Rodriguez Ramirez.
@@ -120,15 +99,7 @@ Cuenta con un campo de texto, en el cual se muestran todas las IDs registradas y
 ## 
 
 
-
-**
-┏┓
-┃┃
-┃┃╋╋┏┳━━┳━━┳━┓┏━━┳┳━━┓
-┃┃╋┏╋┫┏━┫┃━┫┏┓┫┏━╋┫┏┓┃
-┃┗━┛┃┃┗━┫┃━┫┃┃┃┗━┫┃┏┓┃
-┗━━━┻┻━━┻━━┻┛┗┻━━┻┻┛┗┛**
-## 
+# **LICENCIA**
 
 *Este software es de uso libre, puede ser modificado o actualizado por cualquiera que desee usarlo.*
 
